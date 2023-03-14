@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\bin\Debug\net7.0\MultProjectC#.exe
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\bin\Debug\net7.0\MultProjectC#.deps.json
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\bin\Debug\net7.0\MultProjectC#.runtimeconfig.json
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\bin\Debug\net7.0\MultProjectC#.dll
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\bin\Debug\net7.0\MultProjectC#.pdb
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\MultProjectC#.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\MultProjectC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\MultProjectC#.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\MultProjectC#.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\MultProjectC#.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\MultProjectC#.dll
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\refint\MultProjectC#.dll
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\MultProjectC#.pdb
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\MultProjectC#.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Desktop\MultProjectC#\obj\Debug\net7.0\ref\MultProjectC#.dll
